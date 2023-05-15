@@ -87,6 +87,7 @@ body {
   color: var(--secondary-text-color);
 }
 .nav-item link {
+  position: relative;
   text-decoration: none;
 }
 .nav-item:hover,
