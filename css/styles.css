@@ -78,7 +78,6 @@ body {
   gap: 40px;
 }
 .nav-item {
-  position: relative;
   display: block;
   padding: 24px 0;
   font-weight: 500;
