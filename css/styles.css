@@ -78,6 +78,7 @@ body {
   gap: 40px;
 }
 .nav-item {
+  position: relative;
   display: block;
   padding: 24px 0;
   font-weight: 500;
@@ -87,7 +88,6 @@ body {
   color: var(--secondary-text-color);
 }
 .nav-item link {
-  position: relative;
   text-decoration: none;
 }
 .nav-item:hover,
